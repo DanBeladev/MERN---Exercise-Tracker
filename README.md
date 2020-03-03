@@ -1,3 +1,14 @@
+How to run this application? follow next steps.(be sure you have "node" on yours computer - else download it)
+
+1. clone or download this project from github
+2. open terminal\cmd in your computer to repository directory
+3. go to mern-excercise-tracker directory
+4. go to backend directory
+5. turn on server by the command "nodemon server"
+6. go back to mern-excercise-tracker directory
+7. run client side by "npm start" command
+8. open browser in with url: http://localhost:3000
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
